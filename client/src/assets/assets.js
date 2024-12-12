@@ -5,6 +5,16 @@ import star_icon from './star_icon.png';
 import star_group from './star_group.png';
 import sample_img_1 from './sample_img_1.png';
 import sample_img_2 from './sample_img_2.png';
+import step_icon_1 from './step_icon_1.png';
+import step_icon_2 from './step_icon_2.png';
+import step_icon_3 from './step_icon_3.png';
+import profile_img_1 from './profile_img_1.png';
+import profile_img_2 from './profile_img_2.png';
+import profile_img_3 from './profile_img_3.png';
+import rating_star from './rating_star.png';
+import facebook_icon from './facebook_icon.png';
+import instagram_icon from './instagram_icon.png';
+import twitter_icon from './twitter_icon.png'
 
 
 export const assets = {
@@ -15,9 +25,13 @@ export const assets = {
     star_group,
     sample_img_1,
     sample_img_2,
+    rating_star,
+    facebook_icon,
+    instagram_icon,
+    twitter_icon,
 }
 
-/*
+
 export const stepsData = [
     {
         title: 'Describe Your Vision',
@@ -36,23 +50,24 @@ export const stepsData = [
     }
 ]
 
+
 export const testimonialsData = [
     {
-        Image: profile_img_1,
+        image: profile_img_1,
         name: 'Donald Jackman',
         role: 'Graphic Designer',
         stars: 5,
         text: "I've been using bg.removal for nearly two years, primarily for Instagram, and it has been incredibly user-friendly, making my work much easier." 
     },
     {
-        Image: profile_img_2,
+        image: profile_img_2,
         name: 'Yiran',
         role: 'Content Creator',
-        stars: 5,
+        stars: 4,
         text: "I've been using bg.removal for over a year now and I'm so happy with the results. It's so easy to use and the images I create are always amazing." 
     },
     {
-        Image: profile_img_3,
+        image: profile_img_3,
         name: 'Zhixiong',
         role: 'Marketing Manager',
         stars: 5,
@@ -80,4 +95,4 @@ export const plans = [
         desc: 'Best for enterprise use.'
     }
 ]
-*/
+
