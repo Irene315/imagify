@@ -14,7 +14,12 @@ import profile_img_3 from './profile_img_3.png';
 import rating_star from './rating_star.png';
 import facebook_icon from './facebook_icon.png';
 import instagram_icon from './instagram_icon.png';
-import twitter_icon from './twitter_icon.png'
+import twitter_icon from './twitter_icon.png';
+import lock_icon from './lock_icon.png';
+import logo_icon from './logo1.png';
+import user_icon from './user_icon.png';
+import email_icon from './email_icon.png';
+import cross_icon from './cross_icon.png';
 
 
 export const assets = {
@@ -29,6 +34,11 @@ export const assets = {
     facebook_icon,
     instagram_icon,
     twitter_icon,
+    lock_icon,
+    logo_icon,
+    user_icon,
+    email_icon,
+    cross_icon,
 }
 
 
@@ -67,7 +77,7 @@ export const testimonialsData = [
         text: "I've been using bg.removal for over a year now and I'm so happy with the results. It's so easy to use and the images I create are always amazing." 
     },
     {
-        image: profile_img_3,
+        image: profile_img_1,
         name: 'Zhixiong',
         role: 'Marketing Manager',
         stars: 5,
